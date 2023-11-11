@@ -1,0 +1,47 @@
+ #offers button,.abt,.intro button{background-color:#ab3131}
+ #offers,#testimonial{text-align:center;height:100vh}
+ #offers,#testimonial,.about,header{height:100vh}
+ .about,.hero,.testimony,.time,.variety{display:flex}
+ *{margin:0;padding:0;box-sizing:border-box}
+ body{font-family:'Hanken Grotesk',sans-serif}
+ a{text-decoration:none}
+ li{list-style:none}
+ .logo{padding-top:2rem;padding-left:2rem}
+ #testimonial,.intro{padding-top:5rem}
+ .logo img{width:7%}
+ .hero{padding-left:4rem}
+ header{background-color:#e8e8e8}
+ .intro h1{font-size:4rem}
+ .intro p{font-size:1.175rem}
+ .intro button{padding:.5rem 1rem;border:none;border-radius:1rem;margin-top:2rem}
+ #offers a,.descript-2 a,.intro a{color:#f9ebeb}
+ .top-image img{margin-left:2rem}
+ .abt-image img{width:40rem;height:100vh}
+ .abt{width:50rem}
+ .descript-2{color:#fff;margin:8rem 10rem}
+ #offers h2,.descript-2 h3{font-size:2.5rem}
+ .descript-2 p{padding-top:1rem;padding-right:.3rem;color:#e7e7e7}
+ .descript-2 button{padding:.5rem 1rem;border:none;border-radius:1rem;background-color:#000;margin-top:2rem}
+ #offers{background-color:#d3d3d3;padding:4rem}
+ .variety{margin-left:14rem;margin-top:1rem}
+ .vari-image{background-color:#fff;margin:1.5rem;border-radius:1rem;padding:.5rem .3rem}
+ .vari-image img{margin-top:.5rem;width:13rem}
+ .descript-3{margin-top:2rem}
+ .descript-3 h3{font-size:1rem}
+ .descript-3 img{width:1.2rem}
+ #offers button{padding:.5rem 1.2rem;border:none;border-radius:1rem;margin-top:1rem;margin-left:8rem}
+ #testimonial{background-color:#cd2d2d;color:#fff}
+ #testimonial h1{font-size:3rem}
+ .testimony{margin:4rem 6rem}
+ .test{margin:.5rem}
+ .descript{padding-top:2rem}
+ .location,.soc{padding-top:4rem}
+ .descript p{padding:.5rem 4rem .2rem}
+ .test-image img{width:10rem;border-radius:50%}
+ .star{width:5rem}
+ .tasty img{width:45rem}
+ .working-hours{width:35rem;background-color:#000;color:#fff}
+ .descript-4{margin:6rem}
+ .descript-4 h3{font-size:.9rem;padding-bottom:.5rem}
+ .location{padding-right:10rem}
+ .soc img{width:1.1rem;margin:.3rem}
